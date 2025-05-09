@@ -1,11 +1,14 @@
 # Projeto: Plataforma Integrada de Redução de Desperdício de Alimentos com IoT e Visão Computacional  
-
+ㅤㅤ
+ㅤㅤ
+ㅤㅤ
 
 ## Contexto: 
 
 Contexto:
 Recife enfrenta desafios significativos relacionados à fome, insegurança alimentar e desperdício de alimentos. Grandes quantidades de alimentos em bom estado são descartadas diariamente em feiras e mercados. Ao mesmo tempo, a população em vulnerabilidade social sofre com a falta de acesso a uma alimentação adequada. Essa proposta visa integrar tecnologias emergentes para otimizar a coleta, redistribuição e compostagem de alimentos por meio de uma plataforma digital e dispositivos IoT.  
 
+.
 
 
 
@@ -17,6 +20,8 @@ Lixeiras Inteligentes para Orgânicos que notificam automaticamente quando estã
 
 Plataforma Web com Mapa mostrando pontos de coleta, disponibilidade de alimentos, status das lixeiras e indicadores ambientais/sociais.
 
+.
+
 
 ## Dados de Referência Importantes:
 
@@ -26,6 +31,7 @@ O Recife desperdiça aproximadamente 1.048 kg de alimentos por dia em apenas qua
 
 Em quatro anos, o SAFUC já desviou 287 toneladas de resíduos orgânicos e produziu 147 toneladas de composto, reduzindo 2.130 toneladas de GEE.
 
+.
 
 
 ## Fluxo da Solução:
