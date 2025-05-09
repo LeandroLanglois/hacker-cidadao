@@ -29,14 +29,23 @@ Em quatro anos, o SAFUC já desviou 287 toneladas de resíduos orgânicos e prod
 ## Fluxo da Solução:
 
 1- Comerciantes e consumidores em feiras públicas depositam alimentos nas cestas inteligentes.
+
 2- Os feirantes fazem a triagem manual dos alimentos, decidindo se estão aptos para consumo humano ou apenas para polpa ou compostagem.
+
 3- A câmera embarcada nas cestas captura a imagem dos alimentos.
+
 4- Um modelo de visão computacional (ex: MobileNet/YOLOv5) quantifica os alimentos depositados, sem realizar classificação de qualidade.
+
 5- O dispositivo envia dados em tempo real para o backend via Wi-Fi ou protocolo MQTT.
+
 6- A plataforma web registra o tipo de alimento (informado pelo feirante), localização, volume e hora da doação.
+
 7- Cozinhas solidárias, restaurantes populares ou ONGs são notificadas automaticamente sobre a disponibilidade de alimentos próximos.
+
 8- O alimento é coletado para preparo e distribuição à população vulnerável.
+
 9- Alimentos descartados na lixeira passam por medição de volume e temperatura.
+
 #### 10- Quando a lixeira atinge 80-90% de capacidade, o sistema envia um aviso por e-mail/push notificando a equipe de coleta/compostagem.
 #### 11- Todo o histórico de coleta, desperdício evitado, composto gerado e redução de GEE é visualizado na plataforma.
 
