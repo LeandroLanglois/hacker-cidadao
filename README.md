@@ -5,12 +5,16 @@
 Contexto:
 Recife enfrenta desafios significativos relacionados à fome, insegurança alimentar e desperdício de alimentos. Grandes quantidades de alimentos em bom estado são descartadas diariamente em feiras e mercados. Ao mesmo tempo, a população em vulnerabilidade social sofre com a falta de acesso a uma alimentação adequada. Essa proposta visa integrar tecnologias emergentes para otimizar a coleta, redistribuição e compostagem de alimentos por meio de uma plataforma digital e dispositivos IoT.
 
+
+
 ## Resumo da Solução:
 
 A solução é composta por:
 Cestas Inteligentes com Visão Computacional que detectam a quantidade de alimentos depositados.
 Lixeiras Inteligentes para Orgânicos que notificam automaticamente quando estão cheias.
 Plataforma Web com Mapa mostrando pontos de coleta, disponibilidade de alimentos, status das lixeiras e indicadores ambientais/sociais.
+
+
 
 ## Dados de Referência Importantes:
 
@@ -19,6 +23,8 @@ No Brasil, estima-se que 30% de toda produção de alimentos seja desperdiçada 
 O Recife desperdiça aproximadamente 1.048 kg de alimentos por dia em apenas quatro feiras (ABRELPE/2023).
 
 Em quatro anos, o SAFUC já desviou 287 toneladas de resíduos orgânicos e produziu 147 toneladas de composto, reduzindo 2.130 toneladas de GEE.
+
+
 
 ## Fluxo da Solução:
 
@@ -34,6 +40,8 @@ Em quatro anos, o SAFUC já desviou 287 toneladas de resíduos orgânicos e prod
 #### 10- Quando a lixeira atinge 80-90% de capacidade, o sistema envia um aviso por e-mail/push notificando a equipe de coleta/compostagem.
 #### 11- Todo o histórico de coleta, desperdício evitado, composto gerado e redução de GEE é visualizado na plataforma.
 
+
+
 ## Benefícios da Coleta de Métricas e Mapeamento de Dados:
 
 • Permite identificar feiras com maior potencial de reaproveitamento de alimentos.
@@ -45,6 +53,8 @@ Em quatro anos, o SAFUC já desviou 287 toneladas de resíduos orgânicos e prod
 • Auxilia no planejamento de campanhas educativas e incentivos fiscais.
 • Possibilita comparações entre bairros/RPAs e priorização de investimentos públicos.
 
+
+
 ## Componentes dos Dispositivos IoT:
 
 ### 1. Cestas Inteligentes:
@@ -55,6 +65,8 @@ LED RGB para feedback visual
 Conexão Wi-Fi (ou LoRa para locais com rede fraca)
 Algoritmo de visão computacional embarcado
 
+
+
 ### 2. Lixeiras Inteligentes:
 
 ESP32
@@ -62,6 +74,8 @@ Sensor ultrassônico (HC-SR04)
 Sensor de temperatura (opcional)
 Fonte de energia (power bank ou painel solar)
 Wi-Fi integrado
+
+
 
 ## Arquitetura da Solução:
 
@@ -74,6 +88,8 @@ Wi-Fi integrado
 [Plataforma Web e Mobile (Vue.js)]
      ↓
 [Usuários: feirantes, cozinhas, prefeitura, ONGs]
+
+
 
 ## Benefícios diretos e Resultados esperados:
 
@@ -89,6 +105,8 @@ Cada tonelada de resíduos orgânicos evitada no aterro representa cerca de 1,9 
 Os dados coletados ajudam gestores a planejar investimentos, campanhas de conscientização, incentivos para feirantes, e integração com cozinhas populares e unidades de compostagem.
 #### Transparência e controle social:
 A população poderá acompanhar os impactos em tempo real, aumentando o engajamento e pressionando por melhorias constantes.
+
+
 
 ## Próximos Passos:
 
