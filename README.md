@@ -109,7 +109,19 @@ Wi-Fi integrado
 [Plataforma Web e Mobile (Vue.js)]
      ↓
      
-[Usuários: feirantes, cozinhas, prefeitura, ONGs]
+[Usuários: feirantes, cozinhas, prefeitura, ONGs]  
+
+## Tabela de Preços:
+
+| Componente                                    | Função                         | Preço Aproximado (R\$) |
+| --------------------------------------------- | ------------------------------ | ---------------------- |
+| ESP32-CAM ou Raspberry Pi                     | Processamento + câmera         | R\$ 60 – R\$ 250       |
+| Câmera (incluída ou Pi Cam)                   | Captura de imagem              | incluso/R\$ 100        |
+| Sensor de peso (HX711 + célula)               | Medição da quantidade por peso | R\$ 30 – R\$ 50        |
+| Módulo Wi-Fi (já incluso no ESP32)            | Envio dos dados                | incluso                |
+| LEDs RGB                                      | Feedback visual de status      | R\$ 5 – R\$ 10         |
+| Caixa resistente (plástico reciclado ou inox) | Estrutura física               | R\$ 150 – R\$ 300      |
+| Fonte de energia (bateria/PV)                 | Energia autônoma               | R\$ 50 – R\$ 200       |
 
 
 
