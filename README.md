@@ -89,12 +89,16 @@ Wi-Fi integrado
 
 [Dispositivos IoT: Cestas e Lixeiras] 
      ↓ (MQTT ou HTTP)
+     
 [Broker MQTT / API Gateway (ex: AWS IoT Core)]
      ↓
+     
 [Backend Serverless (AWS Lambda + DynamoDB)]
      ↓
+     
 [Plataforma Web e Mobile (Vue.js)]
      ↓
+     
 [Usuários: feirantes, cozinhas, prefeitura, ONGs]
 
 
