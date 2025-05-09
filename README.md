@@ -11,9 +11,10 @@ Recife enfrenta desafios significativos relacionados à fome, insegurança alime
 
 ## Resumo da Solução:
 
-A solução é composta por:
 Cestas Inteligentes com Visão Computacional que detectam a quantidade de alimentos depositados.
+
 Lixeiras Inteligentes para Orgânicos que notificam automaticamente quando estão cheias.
+
 Plataforma Web com Mapa mostrando pontos de coleta, disponibilidade de alimentos, status das lixeiras e indicadores ambientais/sociais.
 
 
@@ -96,8 +97,8 @@ Wi-Fi integrado
 
 ## Arquitetura da Solução:
 
-[Dispositivos IoT: Cestas e Lixeiras] 
-     ↓ (MQTT ou HTTP)
+[Dispositivos IoT: Cestas e Lixeiras] (MQTT ou HTTP)
+     ↓
      
 [Broker MQTT / API Gateway (ex: AWS IoT Core)]
      ↓
@@ -115,15 +116,20 @@ Wi-Fi integrado
 ## Benefícios diretos e Resultados esperados:
 
 #### Combate ao desperdício: 
-Dados mostram que mais de 60% dos alimentos descartados nas feiras públicas do Recife estão em condições de consumo. Com métricas, é possível identificar padrões e pontos críticos de perda para ações corretivas.
+Dados mostram que mais de 60% dos alimentos descartados nas feiras públicas do Recife estão em condições de consumo. Com métricas, é possível identificar padrões e pontos críticos de perda para ações corretivas. 
+
 #### Planejamento logístico eficiente: 
-Ao saber onde, quando e quanto alimento é disponibilizado ou descartado, é possível otimizar as rotas de coleta e redistribuição, economizando recursos.
+Ao saber onde, quando e quanto alimento é disponibilizado ou descartado, é possível otimizar as rotas de coleta e redistribuição, economizando recursos.  
+
 #### Geração de compostagem otimizada:
-Com dados de volume e frequência de descarte, os SAFUCs podem planejar melhor a compostagem, garantindo maior eficiência na produção de composto e evitando sobrecargas.
+Com dados de volume e frequência de descarte, os SAFUCs podem planejar melhor a compostagem, garantindo maior eficiência na produção de composto e evitando sobrecargas.  
+
 #### Redução de gases de efeito estufa (GEE):
-Cada tonelada de resíduos orgânicos evitada no aterro representa cerca de 1,9 toneladas de CO₂e não emitidas (segundo IPCC/UNEP). Ao reduzir o envio de resíduos aos aterros, a solução contribui diretamente para mitigar os efeitos das mudanças climáticas.
+Cada tonelada de resíduos orgânicos evitada no aterro representa cerca de 1,9 toneladas de CO₂e não emitidas (segundo IPCC/UNEP). Ao reduzir o envio de resíduos aos aterros, a solução contribui diretamente para mitigar os efeitos das mudanças climáticas.  
+
 #### Formulação de políticas públicas baseadas em evidências:
-Os dados coletados ajudam gestores a planejar investimentos, campanhas de conscientização, incentivos para feirantes, e integração com cozinhas populares e unidades de compostagem.
+Os dados coletados ajudam gestores a planejar investimentos, campanhas de conscientização, incentivos para feirantes, e integração com cozinhas populares e unidades de compostagem.  
+
 #### Transparência e controle social:
 A população poderá acompanhar os impactos em tempo real, aumentando o engajamento e pressionando por melhorias constantes.
 
@@ -132,10 +138,15 @@ A população poderá acompanhar os impactos em tempo real, aumentando o engajam
 ## Próximos Passos:
 
 Construção de protótipos das cestas e lixeiras
+
 Treinamento do modelo de visão computacional
+
 Desenvolvimento do backend e frontend da plataforma
+
 Parcerias com feirantes, cozinhas solidárias e a prefeitura
+
 Validação do MVP em uma feira pública
+
 #### Essa solução alia sustentabilidade, inclusão social e tecnologia acessível para resolver um problema crítico com potencial de alto impacto local e replicabilidade nacional.
 
 
