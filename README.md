@@ -1,14 +1,14 @@
 # Projeto: Plataforma Integrada de Redução de Desperdício de Alimentos com IoT e Visão Computacional  
 ㅤㅤ
 ㅤㅤ
-ㅤㅤ
 
 ## Contexto: 
 
 Contexto:
 Recife enfrenta desafios significativos relacionados à fome, insegurança alimentar e desperdício de alimentos. Grandes quantidades de alimentos em bom estado são descartadas diariamente em feiras e mercados. Ao mesmo tempo, a população em vulnerabilidade social sofre com a falta de acesso a uma alimentação adequada. Essa proposta visa integrar tecnologias emergentes para otimizar a coleta, redistribuição e compostagem de alimentos por meio de uma plataforma digital e dispositivos IoT.  
 
-.
+ㅤㅤ
+ㅤㅤ
 
 
 
@@ -20,8 +20,8 @@ Lixeiras Inteligentes para Orgânicos que notificam automaticamente quando estã
 
 Plataforma Web com Mapa mostrando pontos de coleta, disponibilidade de alimentos, status das lixeiras e indicadores ambientais/sociais.
 
-.
-
+ㅤㅤ
+ㅤㅤ
 
 ## Dados de Referência Importantes:
 
@@ -31,7 +31,8 @@ O Recife desperdiça aproximadamente 1.048 kg de alimentos por dia em apenas qua
 
 Em quatro anos, o SAFUC já desviou 287 toneladas de resíduos orgânicos e produziu 147 toneladas de composto, reduzindo 2.130 toneladas de GEE.
 
-.
+ㅤㅤ
+ㅤㅤ
 
 
 ## Fluxo da Solução:
@@ -57,7 +58,8 @@ Em quatro anos, o SAFUC já desviou 287 toneladas de resíduos orgânicos e prod
 #### 10- Quando a lixeira atinge 80-90% de capacidade, o sistema envia um aviso por e-mail/push notificando a equipe de coleta/compostagem.
 #### 11- Todo o histórico de coleta, desperdício evitado, composto gerado e redução de GEE é visualizado na plataforma.
 
-
+ㅤㅤ
+ㅤㅤ
 
 ## Benefícios da Coleta de Métricas e Mapeamento de Dados:
 
@@ -77,7 +79,8 @@ Em quatro anos, o SAFUC já desviou 287 toneladas de resíduos orgânicos e prod
 
 • Possibilita comparações entre bairros/RPAs e priorização de investimentos públicos.  
 
-
+ㅤㅤ
+ㅤㅤ
 
 ## Componentes dos Dispositivos IoT:
 
@@ -89,6 +92,8 @@ LED RGB para feedback visual
 Conexão Wi-Fi (ou LoRa para locais com rede fraca)
 Algoritmo de visão computacional embarcado
 
+ㅤㅤ
+
 
 
 ### 2. Lixeiras Inteligentes:
@@ -98,6 +103,9 @@ Sensor ultrassônico (HC-SR04)
 Sensor de temperatura (opcional)
 Fonte de energia (power bank ou painel solar)
 Wi-Fi integrado
+
+ㅤㅤ
+ㅤㅤ
 
 
 
@@ -116,6 +124,8 @@ Wi-Fi integrado
      ↓
      
 [Usuários: feirantes, cozinhas, prefeitura, ONGs]  
+ㅤㅤ
+ㅤㅤ
 
 ## Tabela de Preços:
 
@@ -129,7 +139,8 @@ Wi-Fi integrado
 | Caixa resistente (plástico reciclado ou inox) | Estrutura física               | R\$ 150 – R\$ 300      |
 | Fonte de energia (bateria/PV)                 | Energia autônoma               | R\$ 50 – R\$ 200       |
 
-
+ㅤㅤ
+ㅤㅤ
 
 ## Benefícios diretos e Resultados esperados:
 
@@ -151,7 +162,8 @@ Os dados coletados ajudam gestores a planejar investimentos, campanhas de consci
 #### Transparência e controle social:
 A população poderá acompanhar os impactos em tempo real, aumentando o engajamento e pressionando por melhorias constantes.
 
-
+ㅤㅤ
+ㅤㅤ
 
 ## Próximos Passos:
 
