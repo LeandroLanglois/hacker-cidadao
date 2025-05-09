@@ -55,13 +55,20 @@ Em quatro anos, o SAFUC já desviou 287 toneladas de resíduos orgânicos e prod
 ## Benefícios da Coleta de Métricas e Mapeamento de Dados:
 
 • Permite identificar feiras com maior potencial de reaproveitamento de alimentos.
+
 • Otimiza rotas logísticas para coleta e redistribuição.
+
 • Fornece dados concretos para formulação de políticas públicas.
+
 • Apoia a tomada de decisão em tempo real para intervenções rápidas.
+
 • Aumenta a transparência e engajamento da sociedade com dados abertos.
+
 • Gera relatórios automatizados com indicadores de impacto social e ambiental.
+
 • Auxilia no planejamento de campanhas educativas e incentivos fiscais.
-• Possibilita comparações entre bairros/RPAs e priorização de investimentos públicos.
+
+• Possibilita comparações entre bairros/RPAs e priorização de investimentos públicos.  
 
 
 
