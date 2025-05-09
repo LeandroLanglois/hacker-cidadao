@@ -1,9 +1,11 @@
-# Projeto: Plataforma Integrada de Redução de Desperdício de Alimentos com IoT e Visão Computacional
+# Projeto: Plataforma Integrada de Redução de Desperdício de Alimentos com IoT e Visão Computacional  
 
-## contexto: 
+
+## Contexto: 
 
 Contexto:
-Recife enfrenta desafios significativos relacionados à fome, insegurança alimentar e desperdício de alimentos. Grandes quantidades de alimentos em bom estado são descartadas diariamente em feiras e mercados. Ao mesmo tempo, a população em vulnerabilidade social sofre com a falta de acesso a uma alimentação adequada. Essa proposta visa integrar tecnologias emergentes para otimizar a coleta, redistribuição e compostagem de alimentos por meio de uma plataforma digital e dispositivos IoT.
+Recife enfrenta desafios significativos relacionados à fome, insegurança alimentar e desperdício de alimentos. Grandes quantidades de alimentos em bom estado são descartadas diariamente em feiras e mercados. Ao mesmo tempo, a população em vulnerabilidade social sofre com a falta de acesso a uma alimentação adequada. Essa proposta visa integrar tecnologias emergentes para otimizar a coleta, redistribuição e compostagem de alimentos por meio de uma plataforma digital e dispositivos IoT.  
+
 
 
 
