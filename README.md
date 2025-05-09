@@ -15,7 +15,6 @@ Lixeiras Inteligentes para Orgânicos que notificam automaticamente quando estã
 Plataforma Web com Mapa mostrando pontos de coleta, disponibilidade de alimentos, status das lixeiras e indicadores ambientais/sociais.
 
 
-
 ## Dados de Referência Importantes:
 
 No Brasil, estima-se que 30% de toda produção de alimentos seja desperdiçada — cerca de 41 mil toneladas/dia (FAO).
